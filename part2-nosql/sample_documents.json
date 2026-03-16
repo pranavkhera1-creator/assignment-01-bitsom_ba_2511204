@@ -1,0 +1,40 @@
+[
+  {
+    "product_id": "E1001",
+    "name": "Samsung 55 inch Smart TV",
+    "category": "Electronics",
+    "price": 45000,
+    "brand": "Samsung",
+    "warranty_years": 2,
+    "specs": {
+      "voltage": "220V",
+      "resolution": "4K"
+    },
+    "features": ["Smart TV", "WiFi", "HDR"]
+  },
+
+  {
+    "product_id": "C2001",
+    "name": "Men's Denim Jacket",
+    "category": "Clothing",
+    "price": 2999,
+    "brand": "Levis",
+    "sizes_available": ["S", "M", "L", "XL"],
+    "material": "Denim",
+    "colors": ["Blue", "Black"]
+  },
+
+  {
+    "product_id": "G3001",
+    "name": "Organic Milk",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-15",
+    "nutrition": {
+      "calories": 150,
+      "protein": "8g",
+      "fat": "8g"
+    }
+  }
+]
